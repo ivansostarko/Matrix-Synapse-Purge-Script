@@ -18,8 +18,8 @@ This repository contains a Bash script (`purge_synapse.sh`) designed to automate
 ## Installation
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/matrix-synapse-purge.git
-   cd matrix-synapse-purge
+   git clone  https://github.com/ivansostarko/matrix-synapse-purge-script.git
+   cd matrix-synapse-purge-script
    ```
 
 2. **Copy the Script**:
